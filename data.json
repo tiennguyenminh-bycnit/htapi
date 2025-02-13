@@ -1,0 +1,36 @@
+{
+  "place_id": 258989811,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "way",
+  "osm_id": 90394480,
+  "lat": "52.5487921",
+  "lon": "-1.8164308339635031",
+  "class": "building",
+  "type": "residential",
+  "place_rank": 30,
+  "importance": 0.000077344167238834,
+  "addresstype": "building",
+  "name": "",
+  "display_name": "135, Pilkington Avenue, Maney, Sutton Coldfield, Birmingham, West Midlands, England, B72 1LH, United Kingdom",
+  "address": {
+    "house_number": "135",
+    "road": "Pilkington Avenue",
+    "hamlet": "Maney",
+    "town": "Sutton Coldfield",
+    "city": "Birmingham",
+    "ISO3166-2-lvl8": "GB-BIR",
+    "state_district": "West Midlands",
+    "state": "England",
+    "ISO3166-2-lvl4": "GB-ENG",
+    "postcode": "B72 1LH",
+    "country": "United Kingdom",
+    "country_code": "gb"
+  },
+  "boundingbox": [
+    "52.5487473",
+    "52.5488481",
+    "-1.8165130",
+    "-1.8163464"
+  ],
+  "geokml": "\u003CPolygon\u003E\u003CouterBoundaryIs\u003E\u003CLinearRing\u003E\u003Ccoordinates\u003E-1.816513,52.5487566 -1.816434,52.5487473 -1.816429,52.5487629 -1.8163717,52.5487561 -1.8163464,52.5488346 -1.8164599,52.5488481 -1.8164685,52.5488213 -1.8164913,52.548824 -1.816513,52.5487566\u003C/coordinates\u003E\u003C/LinearRing\u003E\u003C/outerBoundaryIs\u003E\u003C/Polygon\u003E"
+}
