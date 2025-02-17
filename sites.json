@@ -16,8 +16,8 @@
   {
     "id": "550e8400-e29b-41d4-a716-446655440001",
     "worksiteName": "GUISCRIFF - Aménagement de la Place Centrale, rue du Terrain des Sports et rue de Kerlabour",
-    "startDate": "2025-04-15T00:00:00Z",
-    "endDate": "2025-09-15T00:00:00Z",
+    "startDate": "2024-04-15T00:00:00Z",
+    "endDate": "2024-09-15T00:00:00Z",
     "addressShort": "Avenue Florian, Le Plessis-Robinson",
     "addressFull": "3 Avenue Florian, 92350 Le Plessis-Robinson",
     "description": "",
@@ -30,7 +30,7 @@
   {
     "id": "550e8400-e29b-41d4-a716-446655440002",
     "worksiteName": "Saint-Lô - Aménagement cyclable et reprofilage des trottoirs de l'Avenue de Paris - Secteur A - Rue du maréchal Juin",
-    "startDate": "2025-05-01T00:00:00Z",
+    "startDate": "2024-05-01T00:00:00Z",
     "endDate": "2025-08-01T00:00:00Z",
     "addressShort": "Boulevard Lefebvre, Paris",
     "addressFull": "Boulevard Lefebvre, Paris",
@@ -40,7 +40,7 @@
       "latitude": 48.829832,
       "longitude": 2.295979
     }
-  },
+  }
   {
     "id": "1",
     "worksiteName": "Construction Site A",
