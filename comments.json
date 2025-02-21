@@ -1,0 +1,63 @@
+[
+  {
+    "id": "thread1",
+    "title": "Discussion sur le chantier",
+    "ResidentUserName": "Jean Dupont",
+    "AgencyUserName": "Entreprise ABC",
+    "messages": [
+      {
+        "publisher": "resident",
+        "publishedDate": "2025-02-18T10:00:00Z",
+        "content": "Bonjour, nous avons une question concernant les travaux.",
+        "attachments": [
+          {
+            "contentType": "image/png",
+            "contentRef": "https://s.hellotravaux.eu/67407259ec410925896923.png"
+          }
+        ]
+      },
+      {
+        "publisher": "agency",
+        "publishedDate": "2025-02-18T10:05:00Z",
+        "content": "Voici la r�ponse � votre question.",
+        "attachments": [
+          {
+            "contentType": "application/pdf",
+            "contentRef": "https://s.hellotravaux.eu/67b4618a81bc0563801027.pdf"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "thread2",
+    "title": "Probl�me",
+    "ResidentUserName": "Marie Curie",
+    "AgencyUserName": "Entreprise XYZ",
+    "messages": [
+      {
+        "publisher": "resident",
+        "publishedDate": "2025-02-17T09:30:00Z",
+        "content": "Bonjour,\n\nEst-ce normal au vu des travaux en cours que les engins klaxonnent la nuit ?\nIl me semblait qu'il y avait d'autres moyens de s�curit� �voqu�s en r�union publique afin d'assurer la securite des ouvriers.\n\nCordialement\n",
+        "attachments": []
+      },
+      {
+        "publisher": "agency",
+        "publishedDate": "2025-02-17T09:45:00Z",
+        "content": "Nous allons v�rifier cela et revenir vers vous.",
+        "attachments": []
+      },
+      {
+        "publisher": "agency",
+        "publishedDate": "2025-02-17T10:00:00Z",
+        "content": "Bonjour Madame,\nMerci pour votre message, les engins ferroviaires n�cessitent l'utilisation de klaxon en tant qu'avertisseur sonore pour alerter sur la mise en mouvement des engin et garantir ainsi la s�curit� du personnel travaillant � proximit� directe des voies. Concernant les travaux classiques nous choisissons syst�matiquement les solutions les plus adapt�es vis-�-vis des nuisances sonores mais les travaux de ce week-end et du week-end prochain ne peuvent malheureusement pas se soustraire � cette contrainte.\nVeuillez nous excuser pour la g�ne occasionn�e que nous comprenons parfaitement.\nSoyez assur�e que nous faisons le maximum pour limiter les nuisances, Bien � vous, L'�quipe chantier",
+        "attachments": [
+          {
+            "contentType": "image/jpeg",
+            "contentRef": "https://s.hellotravaux.eu/672015da92b81892815686.jpg"
+          }
+        ]
+      }
+    ]
+  }
+]
