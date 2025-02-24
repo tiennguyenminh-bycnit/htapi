@@ -23,7 +23,7 @@
       {
         "publisher": "agency",
         "publishedDate": "2025-02-18T10:05:00Z",
-        "content": "Voici la r�ponse � votre question.",
+        "content": "Voici la réponse à votre question.",
         "attachments": [
           {
             "contentType": "application/pdf",
@@ -67,32 +67,103 @@
   },
   {
     "id": "thread2",
-    "title": "Probl�me",
+    "title": "Problème",
     "ResidentUserName": "Marie Curie",
     "AgencyUserName": "Entreprise XYZ",
     "messages": [
       {
         "publisher": "resident",
         "publishedDate": "2025-02-17T09:30:00Z",
-        "content": "Bonjour,\n\nEst-ce normal au vu des travaux en cours que les engins klaxonnent la nuit ?\nIl me semblait qu'il y avait d'autres moyens de s�curit� �voqu�s en r�union publique afin d'assurer la securite des ouvriers.\n\nCordialement\n",
+        "content": "Bonjour,\n\nEst-ce normal au vu des travaux en cours que les engins klaxonnent la nuit ?\nIl me semblait qu'il y avait d'autres moyens de sécurité évoqués en réunion publique afin d'assurer la sécurité des ouvriers.\n\nCordialement\n",
         "attachments": []
       },
       {
         "publisher": "agency",
         "publishedDate": "2025-02-17T09:45:00Z",
-        "content": "Nous allons v�rifier cela et revenir vers vous.",
+        "content": "Nous allons vérifier cela et revenir vers vous.",
         "attachments": []
       },
       {
         "publisher": "agency",
         "publishedDate": "2025-02-17T10:00:00Z",
-        "content": "Bonjour Madame,\nMerci pour votre message, les engins ferroviaires n�cessitent l'utilisation de klaxon en tant qu'avertisseur sonore pour alerter sur la mise en mouvement des engin et garantir ainsi la s�curit� du personnel travaillant � proximit� directe des voies. Concernant les travaux classiques nous choisissons syst�matiquement les solutions les plus adapt�es vis-�-vis des nuisances sonores mais les travaux de ce week-end et du week-end prochain ne peuvent malheureusement pas se soustraire � cette contrainte.\nVeuillez nous excuser pour la g�ne occasionn�e que nous comprenons parfaitement.\nSoyez assur�e que nous faisons le maximum pour limiter les nuisances, Bien � vous, L'�quipe chantier",
+        "content": "Merci pour votre message. Les engins ferroviaires nécessitent l'utilisation du klaxon en tant qu'avertisseur sonore pour alerter sur la mise en mouvement des engins et garantir ainsi la sécurité du personnel travaillant à proximité directe des voies. Concernant les travaux classiques, nous choisissons systématiquement les solutions les plus adaptées vis-à-vis des nuisances sonores, mais les travaux de ce week-end et du week-end prochain ne peuvent malheureusement pas se soustraire à cette contrainte..\nVeuillez nous excuser pour la gêne occasionnée, que nous comprenons parfaitement.\nSoyez assurée que nous faisons le maximum pour limiter les nuisances.\n, Bien à vous,\n L'équipe chantier",
         "attachments": [
           {
             "contentType": "image/jpeg",
             "contentRef": "https://s.hellotravaux.eu/672015da92b81892815686.jpg"
           }
         ]
+      }
+    ]
+  },
+  {
+    "id": "thread3",
+    "title": "Problème de chauffage",
+    "ResidentUserName": "Jean Dupont",
+    "AgencyUserName": "Agence Habitat",
+    "messages": [
+      {
+        "publisher": "resident",
+        "publishedDate": "2025-02-16T08:15:00Z",
+        "content": "Bonjour,\n\nLe chauffage ne fonctionne pas correctement depuis hier soir. Pouvez-vous envoyer un technicien ?\n\nMerci d'avance.\n",
+        "attachments": []
+      },
+      {
+        "publisher": "agency",
+        "publishedDate": "2025-02-16T09:00:00Z",
+        "content": "Bonjour,\n\nNous allons envoyer un technicien dans la journée. Merci pour votre patience.\n",
+        "attachments": []
+      }
+    ]
+  },
+  {
+    "id": "thread4",
+    "title": "Problème",
+    "ResidentUserName": "Marie Curie",
+    "AgencyUserName": "Entreprise XYZ",
+    "messages": [
+      {
+        "publisher": "resident",
+        "publishedDate": "2025-02-17T09:30:00Z",
+        "content": "Bonjour,\n\nEst-ce normal au vu des travaux en cours que les engins klaxonnent la nuit ?\nIl me semblait qu'il y avait d'autres moyens de sécurité évoqués en réunion publique afin d'assurer la sécurité des ouvriers.\n\nCordialement\n",
+        "attachments": []
+      },
+      {
+        "publisher": "agency",
+        "publishedDate": "2025-02-17T09:45:00Z",
+        "content": "Nous allons vérifier cela et revenir vers vous.",
+        "attachments": []
+      },
+      {
+        "publisher": "agency",
+        "publishedDate": "2025-02-17T10:00:00Z",
+        "content": "Merci pour votre message. Les engins ferroviaires nécessitent l'utilisation du klaxon en tant qu'avertisseur sonore pour alerter sur la mise en mouvement des engins et garantir ainsi la sécurité du personnel travaillant à proximité directe des voies. Concernant les travaux classiques, nous choisissons systématiquement les solutions les plus adaptées vis-à-vis des nuisances sonores, mais les travaux de ce week-end et du week-end prochain ne peuvent malheureusement pas se soustraire à cette contrainte..\nVeuillez nous excuser pour la gêne occasionnée, que nous comprenons parfaitement.\nSoyez assurée que nous faisons le maximum pour limiter les nuisances.\n, Bien à vous,\n L'équipe chantier",
+        "attachments": [
+          {
+            "contentType": "image/jpeg",
+            "contentRef": "https://s.hellotravaux.eu/672015da92b81892815686.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "thread5",
+    "title": "Problème d'éclairage",
+    "ResidentUserName": "Lucie Martin",
+    "AgencyUserName": "Ville Services",
+    "messages": [
+      {
+        "publisher": "resident",
+        "publishedDate": "2025-02-18T18:45:00Z",
+        "content": "Bonsoir,\n\nL'éclairage public de notre rue ne fonctionne plus depuis 2 jours. Pouvez-vous vérifier cela ?\n\nMerci.\n",
+        "attachments": []
+      },
+      {
+        "publisher": "agency",
+        "publishedDate": "2025-02-18T19:30:00Z",
+        "content": "Bonjour,\n\nNous avons bien pris en compte votre signalement. Une équipe interviendra demain matin pour réparer l'éclairage.\n\nCordialement,\nVille Services",
+        "attachments": []
       }
     ]
   }
