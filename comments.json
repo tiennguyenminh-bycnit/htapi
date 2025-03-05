@@ -73,26 +73,6 @@
     ]
   },
   {
-    "id": "thread3",
-    "title": "Problème de chauffage",
-    "ResidentUserName": "Jean Dupont",
-    "AgencyUserName": "Agence Habitat",
-    "messages": [
-      {
-        "publisher": "resident",
-        "publishedDate": "2025-02-16T08:15:00Z",
-        "content": "Bonjour,\n\nLe chauffage ne fonctionne pas correctement depuis hier soir. Pouvez-vous envoyer un technicien ?\n\nMerci d'avance.\n",
-        "attachments": []
-      },
-      {
-        "publisher": "agency",
-        "publishedDate": "2025-02-16T09:00:00Z",
-        "content": "Bonjour,\n\nNous allons envoyer un technicien dans la journée. Merci pour votre patience.\n",
-        "attachments": []
-      }
-    ]
-  },
-  {
     "id": "thread4",
     "title": "Problème",
     "ResidentUserName": "Marie Curie",
@@ -123,24 +103,4 @@
       }
     ]
   },
-  {
-    "id": "thread5",
-    "title": "Problème d'éclairage",
-    "ResidentUserName": "Lucie Martin",
-    "AgencyUserName": "Ville Services",
-    "messages": [
-      {
-        "publisher": "resident",
-        "publishedDate": "2025-02-18T18:45:00Z",
-        "content": "Bonsoir,\n\nL'éclairage public de notre rue ne fonctionne plus depuis 2 jours. Pouvez-vous vérifier cela ?\n\nMerci.\n",
-        "attachments": []
-      },
-      {
-        "publisher": "agency",
-        "publishedDate": "2025-02-18T19:30:00Z",
-        "content": "Bonjour,\n\nNous avons bien pris en compte votre signalement. Une équipe interviendra demain matin pour réparer l'éclairage.\n\nCordialement,\nVille Services",
-        "attachments": []
-      }
-    ]
-  }
 ]
