@@ -1,5 +1,348 @@
 {
   "accounts": [
 
-  ]
+  ],
+  "worksites": [
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440000",
+      "worksiteName": "Ivry-sur-seine - Chantier Colas ABC",
+      "startDate": "2025-03-01T00:00:00Z",
+      "endDate": "2025-06-01T00:00:00Z",
+      "addressShort": "Rue Pasteur, Ivry-sur-Seine",
+      "addressFull": "25 Rue Pasteur, 94200 Ivry-sur-Seine",
+      "description": "In 2012, Colas Construction, Inc. completed the interior construction of a 12,000 square foot Portland Streetcar Maintenance Facility Building.  The Maintenance Facility building services existing and new streetcars that were added to the Portland Streetcar Loop Project.",
+      "imageRef": "https://s.hellotravaux.eu/677bd753b67fd989982829.png",
+      "position": {
+        "latitude": 48.816891,
+        "longitude": 2.383169
+      }
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440001",
+      "worksiteName": "GUISCRIFF - Aménagement de la Place Centrale, rue du Terrain des Sports et rue de Kerlabour",
+      "startDate": "2024-04-15T00:00:00Z",
+      "endDate": "2024-09-15T00:00:00Z",
+      "addressShort": "Avenue Florian, Le Plessis-Robinson",
+      "addressFull": "3 Avenue Florian, 92350 Le Plessis-Robinson",
+      "description": "",
+      "imageRef": "https://s.hellotravaux.eu/675a9c25e3532911466133.jpeg",
+      "position": {
+        "latitude": 48.781171,
+        "longitude": 2.257025
+      }
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440002",
+      "worksiteName": "Saint-Lô - Aménagement cyclable et reprofilage des trottoirs de l'Avenue de Paris - Secteur A - Rue du maréchal Juin",
+      "startDate": "2024-05-01T00:00:00Z",
+      "endDate": "2025-08-01T00:00:00Z",
+      "addressShort": "Boulevard Lefebvre, Paris",
+      "addressFull": "Boulevard Lefebvre, Paris",
+      "description": "Requalification des voiries et des espaces extérieurs\nRéaménagement de la Place de la Libération\nCréation de parkings et cheminements piétons\nRevalorisation des espaces verts",
+      "imageRef": "https://s.hellotravaux.eu/66eeb0b63c54b042770503.jpeg",
+      "position": {
+        "latitude": 48.829832,
+        "longitude": 2.295979
+      }
+    },
+    {
+      "id": "1",
+      "worksiteName": "Construction Site A",
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+      "addressFull": "123 Main St, City, Country",
+      "imageRef": "https://cranexcranehiring.in/wp-content/uploads/2024/07/m1.jpg",
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2025-12-31T00:00:00.000Z",
+      "position": {
+        "latitude": 10.802272714990465,
+        "longitude": 106.64232581849711
+      }
+    },
+    {
+      "id": "2",
+      "worksiteName": "Construction Site B",
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+      "addressFull": "456 Elm St, City, Country",
+      "imageRef": "https://cranexcranehiring.in/wp-content/uploads/2024/07/m1.jpg",
+      "startDate": "2023-02-01T00:00:00.000Z",
+      "endDate": "2023-11-30T00:00:00.000Z",
+      "position": {
+        "latitude": 10.792953608502094,
+        "longitude": 106.63945320814635
+      }
+    },
+    {
+      "id": "3",
+      "worksiteName": "Construction Site C",
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc. C",
+      "addressFull": "789 River Rd, City, Country",
+      "imageRef": "https://cranexcranehiring.in/wp-content/uploads/2024/07/m1.jpg",
+      "startDate": "2025-03-01T00:00:00.000Z",
+      "endDate": "2025-10-31T00:00:00.000Z",
+      "position": {
+        "latitude": 10.797722998351588,
+        "longitude": 106.64770724654718
+      }
+    },
+    {
+      "id": "4",
+      "worksiteName": "Construction Site D",
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc. D",
+      "addressFull": "1010 Park Ave, City, Country",
+      "imageRef": "https://cranexcranehiring.in/wp-content/uploads/2024/07/m1.jpg",
+      "startDate": "2023-04-01T00:00:00.000Z",
+      "endDate": "2023-09-30T00:00:00.000Z",
+      "position": {
+        "latitude": 10.791194876893396,
+        "longitude": 106.65265360044181
+      }
+    },
+    {
+      "id": "5",
+      "worksiteName": "Construction Site E",
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc. E",
+      "addressFull": "1212 Elm St, City, Country",
+      "imageRef": "https://cranexcranehiring.in/wp-content/uploads/2024/07/m1.jpg",
+      "startDate": "2023-05-01T00:00:00.000Z",
+      "endDate": "2023-08-31T00:00:00.000Z",
+      "position": {
+        "latitude": 10.80448101571087,
+        "longitude": 106.640703165885
+      }
+    },
+    {
+      "id": "6",
+      "worksiteName": "Construction Site F",
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc. F",
+      "addressFull": "1414 River Rd, City, Country",
+      "imageRef": "https://cranexcranehiring.in/wp-content/uploads/2024/07/m1.jpg",
+      "startDate": "2023-06-01T00:00:00.000Z",
+      "endDate": "2023-07-31T00:00:00.000Z",
+      "position": {
+        "latitude": 10.79876608325767,
+        "longitude": 106.6269746889702
+      }
+    },
+    {
+      "id": "7",
+      "worksiteName": "Construction Site G",
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc. G",
+      "addressFull": "1616 Park Ave, City, Country",
+      "imageRef": "https://cranexcranehiring.in/wp-content/uploads/2024/07/m1.jpg",
+      "startDate": "2023-07-01T00:00:00.000Z",
+      "endDate": "2023-06-30T00:00:00.000Z",
+      "position": {
+        "latitude": 10.775419051294579,
+        "longitude": 106.61208586957017
+      }
+    },
+    {
+      "id": "8",
+      "worksiteName": "Construction Site H",
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc. H",
+      "addressFull": "1818 Main St, City, Country",
+      "imageRef": "https://cranexcranehiring.in/wp-content/uploads/2024/07/m1.jpg",
+      "startDate": "2023-08-01T00:00:00.000Z",
+      "endDate": "2023-05-31T00:00:00.000Z",
+      "position": {
+        "latitude": 10.767076268133641,
+        "longitude": 106.6451626798791
+      }
+    },
+    {
+      "id": "9",
+      "worksiteName": "Construction Site I",
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc. I",
+      "addressFull": "2020 Elm St, City, Country",
+      "imageRef": "https://cranexcranehiring.in/wp-content/uploads/2024/07/m1.jpg",
+      "startDate": "2023-09-01T00:00:00.000Z",
+      "endDate": "2023-04-30T00:00:00.000Z",
+      "position": {
+        "latitude": 10.789427817577117,
+        "longitude": 106.66366787203161
+      }
+    },
+    {
+      "id": "10",
+      "worksiteName": "Construction Site J",
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc. J",
+      "addressFull": "2222 River Rd, City, Country",
+      "imageRef": "https://cranexcranehiring.in/wp-content/uploads/2024/07/m1.jpg",
+      "startDate": "2023-10-01T00:00:00.000Z",
+      "endDate": "2023-03-31T00:00:00.000Z",
+      "position": {
+        "latitude": 10.75067326780097,
+        "longitude": 106.65517106770469
+      }
+    },
+    {
+      "id": "11",
+      "worksiteName": "Construction Site K",
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc. K",
+      "addressFull": "2424 Park Ave, City, Country",
+      "imageRef": "https://cranexcranehiring.in/wp-content/uploads/2024/07/m1.jpg",
+      "startDate": "2023-11-01T00:00:00.000Z",
+      "endDate": "2023-02-28T00:00:00.000Z",
+      "position": {
+        "latitude": 10.884865545376998,
+        "longitude": 106.61503545710896
+      }
+    },
+    {
+      "id": "12",
+      "worksiteName": "Construction Site L",
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc. L",
+      "addressFull": "2626 Main St, City, Country",
+      "imageRef": "https://cranexcranehiring.in/wp-content/uploads/2024/07/m1.jpg",
+      "startDate": "2023-12-01T00:00:00.000Z",
+      "endDate": "2023-01-31T00:00:00.000Z",
+      "position": {
+        "latitude": 10.038363067625312,
+        "longitude": 105.75252213274015
+      }
+    }
+  ],
+  "comments": [{
+    "id": "thread1",
+    "title": "Discussion sur le chantier",
+    "ResidentUserName": "Jean Dupont",
+    "AgencyUserName": "Entreprise ABC",
+    "messages": [
+      {
+        "publisher": "resident",
+        "publishedDate": "2025-02-18T10:00:00Z",
+        "content": "Bonjour, nous avons une question concernant les travaux.",
+        "attachments": [
+          {
+            "contentType": "image/png",
+            "contentRef": "https://s.hellotravaux.eu/67407259ec410925896923.png"
+          },
+          {
+            "contentType": "image/jpeg",
+            "contentRef": "https://s.hellotravaux.eu/67b4618a60641110809026.jpg"
+          }
+        ]
+      },
+      {
+        "publisher": "agency",
+        "publishedDate": "2025-02-18T10:05:00Z",
+        "content": "Voici la réponse à votre question.",
+        "attachments": [
+          {
+            "contentType": "application/pdf",
+            "contentRef": "https://s.hellotravaux.eu/67b4618a81bc0563801027.pdf"
+          },
+          {
+            "contentType": "image/png",
+            "contentRef": "https://s.hellotravaux.eu/67407259ec410925896923.png"
+          },
+          {
+            "contentType": "image/jpeg",
+            "contentRef": "https://s.hellotravaux.eu/67b4618a60641110809026.jpg"
+          }
+        ]
+      }
+    ]
+  },
+    {
+      "id": "thread2",
+      "title": "Problème",
+      "ResidentUserName": "Marie Curie",
+      "AgencyUserName": "Entreprise XYZ",
+      "messages": [
+        {
+          "publisher": "resident",
+          "publishedDate": "2025-02-17T09:30:00Z",
+          "content": "Bonjour,\n\nEst-ce normal au vu des travaux en cours que les engins klaxonnent la nuit ?\nIl me semblait qu'il y avait d'autres moyens de sécurité évoqués en réunion publique afin d'assurer la sécurité des ouvriers.\n\nCordialement\n",
+          "attachments": []
+        },
+        {
+          "publisher": "agency",
+          "publishedDate": "2025-02-17T09:45:00Z",
+          "content": "Nous allons vérifier cela et revenir vers vous.",
+          "attachments": []
+        },
+        {
+          "publisher": "agency",
+          "publishedDate": "2025-02-17T10:00:00Z",
+          "content": "Merci pour votre message. Les engins ferroviaires nécessitent l'utilisation du klaxon en tant qu'avertisseur sonore pour alerter sur la mise en mouvement des engins et garantir ainsi la sécurité du personnel travaillant à proximité directe des voies. Concernant les travaux classiques, nous choisissons systématiquement les solutions les plus adaptées vis-à-vis des nuisances sonores, mais les travaux de ce week-end et du week-end prochain ne peuvent malheureusement pas se soustraire à cette contrainte..\nVeuillez nous excuser pour la gêne occasionnée, que nous comprenons parfaitement.\nSoyez assurée que nous faisons le maximum pour limiter les nuisances.\n, Bien à vous,\n L'équipe chantier",
+          "attachments": [
+            {
+              "contentType": "image/jpeg",
+              "contentRef": "https://s.hellotravaux.eu/672015da92b81892815686.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "thread4",
+      "title": "Problème",
+      "ResidentUserName": "Marie Curie",
+      "AgencyUserName": "Entreprise XYZ",
+      "messages": [
+        {
+          "publisher": "resident",
+          "publishedDate": "2025-02-17T09:30:00Z",
+          "content": "Bonjour,\n\nEst-ce normal au vu des travaux en cours que les engins klaxonnent la nuit ?\nIl me semblait qu'il y avait d'autres moyens de sécurité évoqués en réunion publique afin d'assurer la sécurité des ouvriers.\n\nCordialement\n",
+          "attachments": []
+        },
+        {
+          "publisher": "agency",
+          "publishedDate": "2025-02-17T09:45:00Z",
+          "content": "Nous allons vérifier cela et revenir vers vous.",
+          "attachments": []
+        },
+        {
+          "publisher": "agency",
+          "publishedDate": "2025-02-17T10:00:00Z",
+          "content": "Merci pour votre message. Les engins ferroviaires nécessitent l'utilisation du klaxon en tant qu'avertisseur sonore pour alerter sur la mise en mouvement des engins et garantir ainsi la sécurité du personnel travaillant à proximité directe des voies. Concernant les travaux classiques, nous choisissons systématiquement les solutions les plus adaptées vis-à-vis des nuisances sonores, mais les travaux de ce week-end et du week-end prochain ne peuvent malheureusement pas se soustraire à cette contrainte..\nVeuillez nous excuser pour la gêne occasionnée, que nous comprenons parfaitement.\nSoyez assurée que nous faisons le maximum pour limiter les nuisances.\n, Bien à vous,\n L'équipe chantier",
+          "attachments": [
+            {
+              "contentType": "image/jpeg",
+              "contentRef": "https://s.hellotravaux.eu/672015da92b81892815686.jpg"
+            }
+          ]
+        }
+      ]
+    }],
+  "publications": [{
+    "id": "123e4567-e89b-12d3-a456-426614174000",
+    "title": "Opérations coup de poing",
+    "publishedDate": "2025-02-18T08:00:00Z",
+    "content": "Bonjour à tous,\nLes équipes ont travaillé d'arrache pied ce mois de janvier et février pour préparer les appuis de la future passerelle. Ils sont à présent achevés et la passerelle sera posée lors des opérations dites \"coup de poing\" des 22/02 et 01/03 où la circulation ferroviaire sera coupée et nos équipes travailleront en trois 8 pour poser l’ouvrage sur ces appuis à l'aide d'une imposante grue. A cette fin la circulation sera quelque peut perturbée sur le pont de la mission haut brion. Vous trouverez des information sur le document en pièce jointe.\nBien à vous\n\nL'équipe du chantier",
+    "attachments": [
+      {
+        "contentType": "application/pdf",
+        "contentRef": "https://s.hellotravaux.eu/67b4618a81bc0563801027.pdf"
+      },
+      {
+        "contentType": "image/png",
+        "contentRef": "https://s.hellotravaux.eu/677bd753b67fd989982829.png"
+      },
+      {
+        "contentType": "image/jpeg",
+        "contentRef": "https://s.hellotravaux.eu/67b4618a60641110809026.jpg"
+      }
+    ]
+  },
+    {
+      "id": "123e4567-e89b-12d3-a456-426614174001",
+      "title": "Mise à jour des plans",
+      "publishedDate": "2025-02-17T14:30:00Z",
+      "content": "Bonjour à tous,\nComme nous nous y étions engagé lors de la dernière réunion publique, nous allons chanfreiner l'angle saillant de la bordure du rond point de la mission Haut Brion afin de limiter les secousses des véhicules qui emprunte le rond point durant la phase des travaux. Cette intervention aura lieu le lundi 29 juillet toute la journée et n'impactera pas l’organisation générale actuelle de la circulation. Nos compagnons travaillerons en demie chaussée laissant la place nécessaire aux véhicules pour faire leur giration sur une chaussée de largeur restreinte. Nous vous prions de veiller tout particulièrement ce jour à rouler au pas afin de nous permettre une intervention en toute sécurité.\nNous avions prévu d'intervenir plus tôt, ce qui n'a pas été rendu possible pour des raisons de difficulté d'organisation et vous prions de nous en excuser.\n\nLe rond point présentera dès mardi, toujours un redans mais celui ci sera adouci en espérant que cela rendra votre conduite plus agréable.\nBien à vous,\n\nToute l'équipe travaux",
+      "attachments": []
+    },
+    {
+      "id": "123e4567-e89b-12d3-a456-426614174025",
+      "title": "📍POINT TRAVAUX- AVENUE DE BOURBON   Chemin Lontan phase 2, Avenue de Bourbon",
+      "publishedDate": "2025-02-16T09:00:00Z",
+      "content": "Chemin Lontan phase 2, Avenue de Bourbon \r\n \r\n\ud83d\udccdSecteur : [Rue Payet   \u27a1\ufe0f Chemin Ma\u00eetre ]\r\n \r\n\ud83d\udea7 ATTENTION \ud83d\udea7-  AVENUE DE BOURBON ROUTE BARREE [Rue Payet  \u27a1\ufe0f Chemin Ma\u00eetre]\r\n\u26a0\ufe0f ATTENTION \u26a0\ufe0f\u2013   TRAVAUX DE NUIT  - AVENUE DE BOURBON\r\n \r\n\u2022\tPose R\u00e9seau eaux us\u00e9es\r\n\u2022\tPose R\u00e9seau adduction d\u2019eau potable \r\n\u2022\tPose de r\u00e9seau Telecom \r\n\u2022\tPose de r\u00e9seau eaux pluviales \r\n\u2022\tMise en \u0153uvre de la structure de voirie \r\n\u2022\tD\u00e9marrage de la pose de bordure \r\n \u26a0\ufe0f ATTENTION \u26a0\ufe0f\u2013   SORTIE DE CAMIONS RUE LAMARQUE\r\n \r\n \u26a0\ufe0fPour le bien de tous, merci de respecter la signalisation mise en place.\r\n \r\nBonne semaine,",
+      "attachments": [
+        {
+          "contentType": "image/jpeg",
+          "contentRef": "https://s.hellotravaux.eu/668cd5ce53629060617325.jpeg"
+        }
+      ]
+    }]
 }
