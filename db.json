@@ -32,6 +32,36 @@
       }
     }
   ],
+  "search": [
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440000",
+      "worksiteName": "Ivry-sur-seine - Chantier Colas ABC",
+      "startDate": "2025-03-01T00:00:00Z",
+      "endDate": "2025-06-01T00:00:00Z",
+      "addressShort": "Rue Pasteur, Ivry-sur-Seine",
+      "addressFull": "25 Rue Pasteur, 94200 Ivry-sur-Seine",
+      "description": "In 2012, Colas Construction, Inc. completed the interior construction of a 12,000 square foot Portland Streetcar Maintenance Facility Building.  The Maintenance Facility building services existing and new streetcars that were added to the Portland Streetcar Loop Project.",
+      "imageRef": "https://s.hellotravaux.eu/677bd753b67fd989982829.png",
+      "position": {
+        "latitude": 48.816891,
+        "longitude": 2.383169
+      }
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440001",
+      "worksiteName": "GUISCRIFF - Aménagement de la Place Centrale, rue du Terrain des Sports et rue de Kerlabour",
+      "startDate": "2024-04-15T00:00:00Z",
+      "endDate": "2024-09-15T00:00:00Z",
+      "addressShort": "Avenue Florian, Le Plessis-Robinson",
+      "addressFull": "3 Avenue Florian, 92350 Le Plessis-Robinson",
+      "description": "",
+      "imageRef": "https://s.hellotravaux.eu/675a9c25e3532911466133.jpeg",
+      "position": {
+        "latitude": 48.781171,
+        "longitude": 2.257025
+      }
+    }
+  ],
   "comments": [{
     "id": "thread1",
     "title": "Discussion sur le chantier",
