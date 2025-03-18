@@ -1,6 +1,10 @@
 {
   "accounts": [
-
+    {
+      "id": 1,
+      "username": "uiuw",
+      "deviceId": "stqwering"
+    }
   ],
   "worksites": [
     {
