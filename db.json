@@ -1,11 +1,8 @@
 {
-  "accounts": [
-    {
-      "id": 1,
-      "username": "uiuw",
-      "deviceId": "stqwering"
-    }
-  ],
+  "accounts": {
+    "username": "uiuw",
+    "deviceId": "stqwering"
+  },
   "worksites": [
     {
       "id": "08dd55dc-1820-4828-8fe1-289db91dc93f",
